@@ -15,7 +15,8 @@ Interactive Power BI dashboard analyzing Chicago crime trends using Python, Powe
 - Weather Impact Analysis
 
 ## Dashboard Preview
-- View in power BI dashboard attached
+<img width="1311" height="739" alt="image" src="https://github.com/user-attachments/assets/07f7858e-c5c4-4aa6-8b0b-1ade3a0c72a9" />
+
 
 ## Skills
 - Data Cleaning

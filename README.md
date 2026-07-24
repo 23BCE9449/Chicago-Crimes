@@ -16,8 +16,7 @@ This project analyzes Chicago crime data using Power BI.
 - Weather Impact Analysis
 
 ## Dashboard Preview
-
-(Add screenshots here)
+- View in power BI dashboard attached
 
 ## Skills
 - Data Cleaning

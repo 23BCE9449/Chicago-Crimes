@@ -1,8 +1,7 @@
 # Chicago-Crimes
-Interactive Power BI dashboard analyzing Chicago crime trends using Python, Power BI, and DAX.
 
 ## Project Overview
-This project analyzes Chicago crime data using Power BI.
+Interactive Power BI dashboard analyzing Chicago crime trends using Python, Power BI, and DAX.
 
 ## Tools
 - Power BI
